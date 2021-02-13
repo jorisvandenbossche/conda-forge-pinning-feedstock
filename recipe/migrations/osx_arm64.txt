@@ -153,6 +153,7 @@ texlive-core
 open62541
 gperf
 ansible
+pygeos
 r
 tmux
 websockets
